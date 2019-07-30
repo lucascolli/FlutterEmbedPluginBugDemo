@@ -1,0 +1,6 @@
+framework module flutter_crashlytics {
+  umbrella header "flutter_crashlytics-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_NewHostApp {
+  umbrella header "Pods-NewHostApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
